@@ -111,7 +111,7 @@ MIT License の下で公開。自由に使用・改変可能ですが、クレ�
 
 連絡先
 
-作者: [Your Name]
-メール: [your.email@example.com]
+作者: [Shibata Atsushi]
+メール: [atusi77@gmail.com]
 GitHub: username
 
