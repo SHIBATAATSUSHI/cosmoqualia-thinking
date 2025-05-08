@@ -113,5 +113,5 @@ MIT License の下で公開。自由に使用・改変可能ですが、クレ�
 
 作者: [Shibata Atsushi]
 メール: [atusi77@gmail.com]
-GitHub: username
+GitHub: SHIBATAATSUSHI
 
